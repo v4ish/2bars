@@ -50,6 +50,8 @@ Press Ctrl + Alt + C to toggle the cinematic bars overlay on or off.
 
 ## Notes
 
+- Use Fullscreen Windowed if not working
+
 - The app uses global keyboard hooks — running it may require admin or elevated privileges on some platforms.
 
 - Only tested on Windows and Linux; macOS support may vary.
