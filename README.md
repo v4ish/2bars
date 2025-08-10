@@ -14,9 +14,9 @@ Cinematic Overlay for Clutches in CS2. A simple Python app that adds cinematic b
 ---
 
 ## Screenshots
-Without Overlay             |  With Overlay
+With Overlay             |  Without Overlay
 :-------------------------:|:-------------------------:
-![](https://cdn.discordapp.com/attachments/926176591736889385/1404140183342944318/kiBOEPE.png?ex=689a1af3&is=6898c973&hm=aae0d09874da86d292f6bf9e0854e0a2ace0aa1bd7734c640fcb8c8354f4a750&)  |  ![](https://cdn.discordapp.com/attachments/926176591736889385/1404140269783224401/1Xpo43R.png?ex=689a1b07&is=6898c987&hm=e12323761958838c265114396692de9792250cc1b3c05505159330217cfd7386&)
+![](ss/1.png)  |  ![](ss/0.png)
 
 ## Requirements
 
