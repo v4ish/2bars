@@ -7,7 +7,7 @@ Cinematic Overlay for Clutches in CS2. A simple Python app that adds cinematic b
 ## Features
 
 - Smooth animated black bars that slide in/out with easing
-- Fullscreen transparent overlay with no window decorations
+- Clean transparent overlay
 - Global hotkey (`Ctrl + Alt + C`) to toggle bars on and off
 - Lightweight and minimal dependencies
 
