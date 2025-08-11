@@ -61,7 +61,7 @@ python 2bars.py
 
 #### Windows
 ```bash
-python -m nuitka --onefile --windows-icon-from-ico=new.ico --enable-plugin=pyqt5 --include-module=keyboard 2bars.py
+python -m nuitka --onefile --windows-icon-from-ico=2bars.ico --enable-plugin=pyqt5 --include-module=keyboard 2bars.py
 ```
 
 ####  Having trouble or Want to Join the Discord?
