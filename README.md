@@ -55,6 +55,7 @@ python 2bars.py
 - The app uses global keyboard hooks — running it may require admin or elevated privileges on some platforms.
 
 - Only tested on Windows and Linux; macOS support may vary.
+- [VT Scan False positive](https://www.virustotal.com/gui/file/a315d472a573d76ccaf584089d14c2f634591cbd9eade2de257c8b1f0deb02ae?nocache=1)
 
 ---
 ## Using nuitka
