@@ -41,7 +41,7 @@ With Overlay             |  Without Overlay
 
 ```python
 
-python cinematic_bars.py
+python 2bars.py
 ```
 
 Press Ctrl + Alt + C to toggle the cinematic bars overlay on or off.
