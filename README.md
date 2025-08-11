@@ -55,3 +55,8 @@ Press Ctrl + Alt + C to toggle the cinematic bars overlay on or off.
 - The app uses global keyboard hooks — running it may require admin or elevated privileges on some platforms.
 
 - Only tested on Windows and Linux; macOS support may vary.
+
+####  Having trouble or Want to request a new RPC?
+
+- [Opening a issue](https://github.com/v4ish/2bars/labels/Request)
+- [Join Discord](https://dsc.gg/v4ish)
