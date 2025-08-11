@@ -56,6 +56,14 @@ python 2bars.py
 
 - Only tested on Windows and Linux; macOS support may vary.
 
+---
+## Using nuitka
+
+#### Windows
+```bash
+python -m nuitka --onefile --windows-icon-from-ico=new.ico --enable-plugin=pyqt5 --include-module=keyboard 2bars.py
+```
+
 ####  Having trouble or Want to Join the Discord?
 
 - [Open a issue](https://github.com/v4ish/2bars/issues)
