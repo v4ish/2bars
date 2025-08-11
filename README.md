@@ -50,7 +50,7 @@ python 2bars.py
 
 ## Notes
 
-- Use Fullscreen Windowed if not working
+- Use Fullscreen Windowed if not working.
 
 - The app uses global keyboard hooks — running it may require admin or elevated privileges on some platforms.
 
