@@ -1,6 +1,6 @@
 # 2bars
 
-Cinematic Overlay for Clutches in CS2. A simple Python app that adds cinematic black bars at the top and bottom of your screen — perfect for adding that classic letterbox effect to videos, games, or presentations.
+Smooth Cinematic Overlay for Clutches in CS2. A simple Python app that adds cinematic black bars at the top and bottom of your screen.
 
 ---
 
