@@ -13,8 +13,6 @@ Smooth Cinematic Overlay for Clutches in CS2. A simple Python app that adds cine
 
 ---
 
-![](https://s4.ezgif.com/tmp/ezgif-4a88e559bd78d3.gif)
-
 ## Screenshots
 With Overlay             |  Without Overlay
 :-------------------------:|:-------------------------:
